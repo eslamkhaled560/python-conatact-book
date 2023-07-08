@@ -5,9 +5,10 @@ This project is a contact book application that allows users to manage their con
 -----------------------------------------
 ## Getting Started:
 
-- Clone repsitory
+- Clone repsitory and move to it
 ```
 git clone https://github.com/eslamkhaled560/python-conatact-book.git
+cd python-conatact-book
 ```
 
 - Install dependecies
